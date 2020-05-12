@@ -1,0 +1,5 @@
+public enum  KottuCode {
+
+    CHICKEN,EGG,VEGETABLE,CHEESECHICKEN,SHCHICKEN,MIX
+
+}
